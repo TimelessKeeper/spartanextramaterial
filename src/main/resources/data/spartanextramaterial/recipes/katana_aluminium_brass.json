@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:katana",
+  "pattern": [
+    "  I",
+    " I ",
+    "H  "
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/aluminium_brass"
+    },
+    "H": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "katana_aluminium_brass"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "katana",
+        "aluminium_brass"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/aluminium_brass",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

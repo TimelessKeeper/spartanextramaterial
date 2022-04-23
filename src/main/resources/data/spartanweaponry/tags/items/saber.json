@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:saber_aluminium",
+    "spartanextramaterial:saber_osmium",
+    "spartanextramaterial:saber_zinc",
+    "spartanextramaterial:saber_tungsten",
+    "spartanextramaterial:saber_titanium",
+    "spartanextramaterial:saber_cupronickel",
+    "spartanextramaterial:saber_aluminium_brass",
+    "spartanextramaterial:saber_brass"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:glaive_aluminium",
+    "spartanextramaterial:glaive_osmium",
+    "spartanextramaterial:glaive_zinc",
+    "spartanextramaterial:glaive_tungsten",
+    "spartanextramaterial:glaive_titanium",
+    "spartanextramaterial:glaive_cupronickel",
+    "spartanextramaterial:glaive_aluminium_brass",
+    "spartanextramaterial:glaive_brass"
+  ]
+}

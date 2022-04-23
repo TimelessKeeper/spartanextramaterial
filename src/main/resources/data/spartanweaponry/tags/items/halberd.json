@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:halberd_aluminium",
+    "spartanextramaterial:halberd_osmium",
+    "spartanextramaterial:halberd_zinc",
+    "spartanextramaterial:halberd_tungsten",
+    "spartanextramaterial:halberd_titanium",
+    "spartanextramaterial:halberd_cupronickel",
+    "spartanextramaterial:halberd_aluminium_brass",
+    "spartanextramaterial:halberd_brass"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:battleaxe_brass",
+    "spartanextramaterial:boomerang_brass",
+    "spartanextramaterial:dagger_brass",
+    "spartanextramaterial:flanged_mace_brass",
+    "spartanextramaterial:glaive_brass",
+    "spartanextramaterial:greatsword_brass",
+    "spartanextramaterial:halberd_brass",
+    "spartanextramaterial:hammer_brass",
+    "spartanextramaterial:heavy_crossbow_brass",
+    "spartanextramaterial:javelin_brass",
+    "spartanextramaterial:katana_brass",
+    "spartanextramaterial:lance_brass",
+    "spartanextramaterial:longbow_brass",
+    "spartanextramaterial:longsword_brass",
+    "spartanextramaterial:parrying_dagger_brass",
+    "spartanextramaterial:pike_brass",
+    "spartanextramaterial:quarterstaff_brass",
+    "spartanextramaterial:rapier_brass",
+    "spartanextramaterial:saber_brass",
+    "spartanextramaterial:scythe_brass",
+    "spartanextramaterial:spear_brass",
+    "spartanextramaterial:throwing_knife_brass",
+    "spartanextramaterial:tomahawk_brass",
+    "spartanextramaterial:warhammer_brass"
+  ]
+}

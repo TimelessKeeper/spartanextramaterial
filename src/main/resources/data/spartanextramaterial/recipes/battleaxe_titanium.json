@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:battleaxe",
+  "pattern": [
+    "III",
+    "IRI",
+    " H "
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/titanium"
+    },
+    "H": {
+      "item": "spartanweaponry:handle"
+    },
+    "R": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "battleaxe_titanium"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "battleaxe",
+        "titanium"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/titanium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

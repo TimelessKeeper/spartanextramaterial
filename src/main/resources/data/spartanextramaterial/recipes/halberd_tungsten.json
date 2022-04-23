@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:halberd",
+  "pattern": [
+    " I",
+    "II",
+    "IP"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/tungsten"
+    },
+    "P": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "halberd_tungsten"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "halberd",
+        "tungsten"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/tungsten",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

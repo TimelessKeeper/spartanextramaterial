@@ -1,0 +1,6 @@
+{
+  "parent": "spartanweaponry:item/base/longbow_pulling",
+  "textures": {
+    "layer0": "spartanextramaterial:item/longbow_brass_pulling_2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:scythe_aluminium",
+    "spartanextramaterial:scythe_osmium",
+    "spartanextramaterial:scythe_zinc",
+    "spartanextramaterial:scythe_tungsten",
+    "spartanextramaterial:scythe_titanium",
+    "spartanextramaterial:scythe_cupronickel",
+    "spartanextramaterial:scythe_aluminium_brass",
+    "spartanextramaterial:scythe_brass"
+  ]
+}

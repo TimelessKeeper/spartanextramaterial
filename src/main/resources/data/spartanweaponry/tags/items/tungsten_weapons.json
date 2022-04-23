@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:battleaxe_tungsten",
+    "spartanextramaterial:boomerang_tungsten",
+    "spartanextramaterial:dagger_tungsten",
+    "spartanextramaterial:flanged_mace_tungsten",
+    "spartanextramaterial:glaive_tungsten",
+    "spartanextramaterial:greatsword_tungsten",
+    "spartanextramaterial:halberd_tungsten",
+    "spartanextramaterial:hammer_tungsten",
+    "spartanextramaterial:heavy_crossbow_tungsten",
+    "spartanextramaterial:javelin_tungsten",
+    "spartanextramaterial:katana_tungsten",
+    "spartanextramaterial:lance_tungsten",
+    "spartanextramaterial:longbow_tungsten",
+    "spartanextramaterial:longsword_tungsten",
+    "spartanextramaterial:parrying_dagger_tungsten",
+    "spartanextramaterial:pike_tungsten",
+    "spartanextramaterial:quarterstaff_tungsten",
+    "spartanextramaterial:rapier_tungsten",
+    "spartanextramaterial:saber_tungsten",
+    "spartanextramaterial:scythe_tungsten",
+    "spartanextramaterial:spear_tungsten",
+    "spartanextramaterial:throwing_knife_tungsten",
+    "spartanextramaterial:tomahawk_tungsten",
+    "spartanextramaterial:warhammer_tungsten"
+  ]
+}

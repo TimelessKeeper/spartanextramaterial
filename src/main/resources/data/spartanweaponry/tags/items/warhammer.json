@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:warhammer_aluminium",
+    "spartanextramaterial:warhammer_osmium",
+    "spartanextramaterial:warhammer_zinc",
+    "spartanextramaterial:warhammer_tungsten",
+    "spartanextramaterial:warhammer_titanium",
+    "spartanextramaterial:warhammer_cupronickel",
+    "spartanextramaterial:warhammer_aluminium_brass",
+    "spartanextramaterial:warhammer_brass"
+  ]
+}

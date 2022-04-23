@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:lance_aluminium",
+    "spartanextramaterial:lance_osmium",
+    "spartanextramaterial:lance_zinc",
+    "spartanextramaterial:lance_tungsten",
+    "spartanextramaterial:lance_titanium",
+    "spartanextramaterial:lance_cupronickel",
+    "spartanextramaterial:lance_aluminium_brass",
+    "spartanextramaterial:lance_brass"
+  ]
+}

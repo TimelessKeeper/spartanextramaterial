@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:quarterstaff",
+  "pattern": [
+    "  I",
+    " P ",
+    "I  "
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/zinc"
+    },
+    "P": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "quarterstaff_zinc"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "quarterstaff",
+        "zinc"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/zinc",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

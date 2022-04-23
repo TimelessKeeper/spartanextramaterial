@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:longbow_aluminium",
+    "spartanextramaterial:longbow_osmium",
+    "spartanextramaterial:longbow_zinc",
+    "spartanextramaterial:longbow_tungsten",
+    "spartanextramaterial:longbow_titanium",
+    "spartanextramaterial:longbow_cupronickel",
+    "spartanextramaterial:longbow_aluminium_brass",
+    "spartanextramaterial:longbow_brass"
+  ]
+}

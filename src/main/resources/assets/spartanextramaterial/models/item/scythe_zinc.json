@@ -1,0 +1,6 @@
+{
+  "parent": "spartanweaponry:item/base/scythe",
+  "textures": {
+    "layer0": "spartanextramaterial:item/scythe_zinc"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:scythe",
+  "pattern": [
+    "II ",
+    "  I",
+    " P "
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/titanium"
+    },
+    "P": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "scythe_titanium"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "scythe",
+        "titanium"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/titanium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:pike",
+  "pattern": [
+    "I",
+    "P",
+    "P"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/titanium"
+    },
+    "P": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "pike_titanium"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "pike",
+        "titanium"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/titanium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

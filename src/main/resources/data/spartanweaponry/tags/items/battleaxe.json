@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:battleaxe_aluminium",
+    "spartanextramaterial:battleaxe_osmium",
+    "spartanextramaterial:battleaxe_zinc",
+    "spartanextramaterial:battleaxe_tungsten",
+    "spartanextramaterial:battleaxe_titanium",
+    "spartanextramaterial:battleaxe_cupronickel",
+    "spartanextramaterial:battleaxe_aluminium_brass",
+    "spartanextramaterial:battleaxe_brass"
+  ]
+}

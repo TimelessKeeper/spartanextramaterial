@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:battleaxe_cupronickel",
+    "spartanextramaterial:boomerang_cupronickel",
+    "spartanextramaterial:dagger_cupronickel",
+    "spartanextramaterial:flanged_mace_cupronickel",
+    "spartanextramaterial:glaive_cupronickel",
+    "spartanextramaterial:greatsword_cupronickel",
+    "spartanextramaterial:halberd_cupronickel",
+    "spartanextramaterial:hammer_cupronickel",
+    "spartanextramaterial:heavy_crossbow_cupronickel",
+    "spartanextramaterial:javelin_cupronickel",
+    "spartanextramaterial:katana_cupronickel",
+    "spartanextramaterial:lance_cupronickel",
+    "spartanextramaterial:longbow_cupronickel",
+    "spartanextramaterial:longsword_cupronickel",
+    "spartanextramaterial:parrying_dagger_cupronickel",
+    "spartanextramaterial:pike_cupronickel",
+    "spartanextramaterial:quarterstaff_cupronickel",
+    "spartanextramaterial:rapier_cupronickel",
+    "spartanextramaterial:saber_cupronickel",
+    "spartanextramaterial:scythe_cupronickel",
+    "spartanextramaterial:spear_cupronickel",
+    "spartanextramaterial:throwing_knife_cupronickel",
+    "spartanextramaterial:tomahawk_cupronickel",
+    "spartanextramaterial:warhammer_cupronickel"
+  ]
+}

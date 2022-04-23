@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:battleaxe_zinc",
+    "spartanextramaterial:boomerang_zinc",
+    "spartanextramaterial:dagger_zinc",
+    "spartanextramaterial:flanged_mace_zinc",
+    "spartanextramaterial:glaive_zinc",
+    "spartanextramaterial:greatsword_zinc",
+    "spartanextramaterial:halberd_zinc",
+    "spartanextramaterial:hammer_zinc",
+    "spartanextramaterial:heavy_crossbow_zinc",
+    "spartanextramaterial:javelin_zinc",
+    "spartanextramaterial:katana_zinc",
+    "spartanextramaterial:lance_zinc",
+    "spartanextramaterial:longbow_zinc",
+    "spartanextramaterial:longsword_zinc",
+    "spartanextramaterial:parrying_dagger_zinc",
+    "spartanextramaterial:pike_zinc",
+    "spartanextramaterial:quarterstaff_zinc",
+    "spartanextramaterial:rapier_zinc",
+    "spartanextramaterial:saber_zinc",
+    "spartanextramaterial:scythe_zinc",
+    "spartanextramaterial:spear_zinc",
+    "spartanextramaterial:throwing_knife_zinc",
+    "spartanextramaterial:tomahawk_zinc",
+    "spartanextramaterial:warhammer_zinc"
+  ]
+}

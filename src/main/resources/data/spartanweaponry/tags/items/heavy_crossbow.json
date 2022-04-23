@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:heavy_crossbow_aluminium",
+    "spartanextramaterial:heavy_crossbow_osmium",
+    "spartanextramaterial:heavy_crossbow_zinc",
+    "spartanextramaterial:heavy_crossbow_tungsten",
+    "spartanextramaterial:heavy_crossbow_titanium",
+    "spartanextramaterial:heavy_crossbow_cupronickel",
+    "spartanextramaterial:heavy_crossbow_aluminium_brass",
+    "spartanextramaterial:heavy_crossbow_brass"
+  ]
+}

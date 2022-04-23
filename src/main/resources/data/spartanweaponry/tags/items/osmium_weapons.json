@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:battleaxe_osmium",
+    "spartanextramaterial:boomerang_osmium",
+    "spartanextramaterial:dagger_osmium",
+    "spartanextramaterial:flanged_mace_osmium",
+    "spartanextramaterial:glaive_osmium",
+    "spartanextramaterial:greatsword_osmium",
+    "spartanextramaterial:halberd_osmium",
+    "spartanextramaterial:hammer_osmium",
+    "spartanextramaterial:heavy_crossbow_osmium",
+    "spartanextramaterial:javelin_osmium",
+    "spartanextramaterial:katana_osmium",
+    "spartanextramaterial:lance_osmium",
+    "spartanextramaterial:longbow_osmium",
+    "spartanextramaterial:longsword_osmium",
+    "spartanextramaterial:parrying_dagger_osmium",
+    "spartanextramaterial:pike_osmium",
+    "spartanextramaterial:quarterstaff_osmium",
+    "spartanextramaterial:rapier_osmium",
+    "spartanextramaterial:saber_osmium",
+    "spartanextramaterial:scythe_osmium",
+    "spartanextramaterial:spear_osmium",
+    "spartanextramaterial:throwing_knife_osmium",
+    "spartanextramaterial:tomahawk_osmium",
+    "spartanextramaterial:warhammer_osmium"
+  ]
+}

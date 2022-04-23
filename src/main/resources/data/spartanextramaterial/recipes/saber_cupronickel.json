@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:saber",
+  "pattern": [
+    " I",
+    " I",
+    "IH"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/cupronickel"
+    },
+    "H": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "saber_cupronickel"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "saber",
+        "cupronickel"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/cupronickel",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

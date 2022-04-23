@@ -1,0 +1,6 @@
+{
+  "parent": "spartanweaponry:item/base/heavy_crossbow_firing",
+  "textures": {
+    "layer0": "spartanextramaterial:item/heavy_crossbow_titanium_loaded"
+  }
+}

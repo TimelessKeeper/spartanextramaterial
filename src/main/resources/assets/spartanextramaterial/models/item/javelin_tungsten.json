@@ -1,0 +1,6 @@
+{
+  "parent": "spartanweaponry:item/base/javelin",
+  "textures": {
+    "layer0": "spartanextramaterial:item/javelin_tungsten"
+  }
+}

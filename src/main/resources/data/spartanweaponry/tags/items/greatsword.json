@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:greatsword_aluminium",
+    "spartanextramaterial:greatsword_osmium",
+    "spartanextramaterial:greatsword_zinc",
+    "spartanextramaterial:greatsword_tungsten",
+    "spartanextramaterial:greatsword_titanium",
+    "spartanextramaterial:greatsword_cupronickel",
+    "spartanextramaterial:greatsword_aluminium_brass",
+    "spartanextramaterial:greatsword_brass"
+  ]
+}

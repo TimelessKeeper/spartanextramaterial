@@ -1,0 +1,6 @@
+{
+  "parent": "spartanweaponry:item/base/pike",
+  "textures": {
+    "layer0": "spartanextramaterial:item/pike_aluminium_brass"
+  }
+}

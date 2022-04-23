@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:tomahawk",
+  "pattern": [
+    "HI",
+    " I"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/titanium"
+    },
+    "H": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "tomahawk_titanium"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "tomahawk",
+        "titanium"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/titanium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:longbow",
+  "pattern": [
+    "HRI",
+    "R S",
+    "ISS"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/titanium"
+    },
+    "H": {
+      "item": "spartanweaponry:handle"
+    },
+    "R": {
+      "tag": "forge:rods/wooden"
+    },
+    "S": {
+      "tag": "forge:string"
+    }
+  },
+  "result": {
+    "item": "longbow_titanium"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "longbow",
+        "titanium"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/titanium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

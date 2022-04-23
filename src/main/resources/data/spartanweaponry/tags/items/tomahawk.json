@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:tomahawk_aluminium",
+    "spartanextramaterial:tomahawk_osmium",
+    "spartanextramaterial:tomahawk_zinc",
+    "spartanextramaterial:tomahawk_tungsten",
+    "spartanextramaterial:tomahawk_titanium",
+    "spartanextramaterial:tomahawk_cupronickel",
+    "spartanextramaterial:tomahawk_aluminium_brass",
+    "spartanextramaterial:tomahawk_brass"
+  ]
+}

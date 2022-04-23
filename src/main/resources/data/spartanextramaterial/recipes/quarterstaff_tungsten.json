@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:quarterstaff",
+  "pattern": [
+    "  I",
+    " P ",
+    "I  "
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/tungsten"
+    },
+    "P": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "quarterstaff_tungsten"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "quarterstaff",
+        "tungsten"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/tungsten",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

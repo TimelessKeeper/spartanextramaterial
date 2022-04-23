@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:battleaxe_aluminium_brass",
+    "spartanextramaterial:boomerang_aluminium_brass",
+    "spartanextramaterial:dagger_aluminium_brass",
+    "spartanextramaterial:flanged_mace_aluminium_brass",
+    "spartanextramaterial:glaive_aluminium_brass",
+    "spartanextramaterial:greatsword_aluminium_brass",
+    "spartanextramaterial:halberd_aluminium_brass",
+    "spartanextramaterial:hammer_aluminium_brass",
+    "spartanextramaterial:heavy_crossbow_aluminium_brass",
+    "spartanextramaterial:javelin_aluminium_brass",
+    "spartanextramaterial:katana_aluminium_brass",
+    "spartanextramaterial:lance_aluminium_brass",
+    "spartanextramaterial:longbow_aluminium_brass",
+    "spartanextramaterial:longsword_aluminium_brass",
+    "spartanextramaterial:parrying_dagger_aluminium_brass",
+    "spartanextramaterial:pike_aluminium_brass",
+    "spartanextramaterial:quarterstaff_aluminium_brass",
+    "spartanextramaterial:rapier_aluminium_brass",
+    "spartanextramaterial:saber_aluminium_brass",
+    "spartanextramaterial:scythe_aluminium_brass",
+    "spartanextramaterial:spear_aluminium_brass",
+    "spartanextramaterial:throwing_knife_aluminium_brass",
+    "spartanextramaterial:tomahawk_aluminium_brass",
+    "spartanextramaterial:warhammer_aluminium_brass"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:parrying_dagger",
+  "pattern": [
+    " I",
+    "IH"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/cupronickel"
+    },
+    "H": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "parrying_dagger_cupronickel"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "parrying_dagger",
+        "cupronickel"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/cupronickel",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

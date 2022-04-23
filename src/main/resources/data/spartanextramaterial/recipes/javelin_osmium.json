@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:javelin",
+  "pattern": [
+    "I",
+    "P"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/osmium"
+    },
+    "P": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "javelin_osmium"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "javelin",
+        "osmium"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/osmium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

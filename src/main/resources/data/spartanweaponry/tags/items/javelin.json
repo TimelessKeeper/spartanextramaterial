@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:javelin_aluminium",
+    "spartanextramaterial:javelin_osmium",
+    "spartanextramaterial:javelin_zinc",
+    "spartanextramaterial:javelin_tungsten",
+    "spartanextramaterial:javelin_titanium",
+    "spartanextramaterial:javelin_cupronickel",
+    "spartanextramaterial:javelin_aluminium_brass",
+    "spartanextramaterial:javelin_brass"
+  ]
+}

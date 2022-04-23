@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:boomerang",
+  "pattern": [
+    "IWW",
+    "W  ",
+    "W  "
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/zinc"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "boomerang_zinc"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "boomerang",
+        "zinc"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/zinc",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

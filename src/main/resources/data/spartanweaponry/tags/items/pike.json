@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:pike_aluminium",
+    "spartanextramaterial:pike_osmium",
+    "spartanextramaterial:pike_zinc",
+    "spartanextramaterial:pike_tungsten",
+    "spartanextramaterial:pike_titanium",
+    "spartanextramaterial:pike_cupronickel",
+    "spartanextramaterial:pike_aluminium_brass",
+    "spartanextramaterial:pike_brass"
+  ]
+}

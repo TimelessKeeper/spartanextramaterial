@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:katana_aluminium",
+    "spartanextramaterial:katana_osmium",
+    "spartanextramaterial:katana_zinc",
+    "spartanextramaterial:katana_tungsten",
+    "spartanextramaterial:katana_titanium",
+    "spartanextramaterial:katana_cupronickel",
+    "spartanextramaterial:katana_aluminium_brass",
+    "spartanextramaterial:katana_brass"
+  ]
+}

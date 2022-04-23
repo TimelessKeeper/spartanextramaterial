@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:halberd",
+  "pattern": [
+    " I",
+    "II",
+    "IP"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/aluminium_brass"
+    },
+    "P": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "halberd_aluminium_brass"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "halberd",
+        "aluminium_brass"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/aluminium_brass",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

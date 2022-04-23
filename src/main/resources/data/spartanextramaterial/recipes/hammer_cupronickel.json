@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:hammer",
+  "pattern": [
+    "III",
+    "III",
+    " H "
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/cupronickel"
+    },
+    "H": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "hammer_cupronickel"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "hammer",
+        "cupronickel"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/cupronickel",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

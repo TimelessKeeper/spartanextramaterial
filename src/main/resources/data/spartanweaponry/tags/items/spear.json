@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:spear_aluminium",
+    "spartanextramaterial:spear_osmium",
+    "spartanextramaterial:spear_zinc",
+    "spartanextramaterial:spear_tungsten",
+    "spartanextramaterial:spear_titanium",
+    "spartanextramaterial:spear_cupronickel",
+    "spartanextramaterial:spear_aluminium_brass",
+    "spartanextramaterial:spear_brass"
+  ]
+}

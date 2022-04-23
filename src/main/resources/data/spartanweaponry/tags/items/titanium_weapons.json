@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:battleaxe_titanium",
+    "spartanextramaterial:boomerang_titanium",
+    "spartanextramaterial:dagger_titanium",
+    "spartanextramaterial:flanged_mace_titanium",
+    "spartanextramaterial:glaive_titanium",
+    "spartanextramaterial:greatsword_titanium",
+    "spartanextramaterial:halberd_titanium",
+    "spartanextramaterial:hammer_titanium",
+    "spartanextramaterial:heavy_crossbow_titanium",
+    "spartanextramaterial:javelin_titanium",
+    "spartanextramaterial:katana_titanium",
+    "spartanextramaterial:lance_titanium",
+    "spartanextramaterial:longbow_titanium",
+    "spartanextramaterial:longsword_titanium",
+    "spartanextramaterial:parrying_dagger_titanium",
+    "spartanextramaterial:pike_titanium",
+    "spartanextramaterial:quarterstaff_titanium",
+    "spartanextramaterial:rapier_titanium",
+    "spartanextramaterial:saber_titanium",
+    "spartanextramaterial:scythe_titanium",
+    "spartanextramaterial:spear_titanium",
+    "spartanextramaterial:throwing_knife_titanium",
+    "spartanextramaterial:tomahawk_titanium",
+    "spartanextramaterial:warhammer_titanium"
+  ]
+}

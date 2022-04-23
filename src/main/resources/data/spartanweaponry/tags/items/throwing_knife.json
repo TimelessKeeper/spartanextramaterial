@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:throwing_knife_aluminium",
+    "spartanextramaterial:throwing_knife_osmium",
+    "spartanextramaterial:throwing_knife_zinc",
+    "spartanextramaterial:throwing_knife_tungsten",
+    "spartanextramaterial:throwing_knife_titanium",
+    "spartanextramaterial:throwing_knife_cupronickel",
+    "spartanextramaterial:throwing_knife_aluminium_brass",
+    "spartanextramaterial:throwing_knife_brass"
+  ]
+}

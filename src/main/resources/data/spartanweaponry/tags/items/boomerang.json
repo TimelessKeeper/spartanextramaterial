@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:boomerang_aluminium",
+    "spartanextramaterial:boomerang_osmium",
+    "spartanextramaterial:boomerang_zinc",
+    "spartanextramaterial:boomerang_tungsten",
+    "spartanextramaterial:boomerang_titanium",
+    "spartanextramaterial:boomerang_cupronickel",
+    "spartanextramaterial:boomerang_aluminium_brass",
+    "spartanextramaterial:boomerang_brass"
+  ]
+}

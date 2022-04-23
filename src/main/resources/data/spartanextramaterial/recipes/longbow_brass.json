@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:longbow",
+  "pattern": [
+    "HRI",
+    "R S",
+    "ISS"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/brass"
+    },
+    "H": {
+      "item": "spartanweaponry:handle"
+    },
+    "R": {
+      "tag": "forge:rods/wooden"
+    },
+    "S": {
+      "tag": "forge:string"
+    }
+  },
+  "result": {
+    "item": "longbow_brass"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "longbow",
+        "brass"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/brass",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

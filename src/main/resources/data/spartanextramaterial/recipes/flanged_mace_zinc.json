@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:flanged_mace",
+  "pattern": [
+    " II",
+    " RI",
+    "H  "
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/zinc"
+    },
+    "H": {
+      "item": "spartanweaponry:handle"
+    },
+    "R": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "flanged_mace_zinc"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "flanged_mace",
+        "zinc"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/zinc",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

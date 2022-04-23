@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:warhammer",
+  "pattern": [
+    " I",
+    "II",
+    " H"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/zinc"
+    },
+    "H": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "warhammer_zinc"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "warhammer",
+        "zinc"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/zinc",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

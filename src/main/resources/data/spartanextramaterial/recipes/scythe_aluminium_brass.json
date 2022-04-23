@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:scythe",
+  "pattern": [
+    "II ",
+    "  I",
+    " P "
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/aluminium_brass"
+    },
+    "P": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "scythe_aluminium_brass"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "scythe",
+        "aluminium_brass"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/aluminium_brass",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "parent": "spartanweaponry:item/base/longbow",
+  "textures": {
+    "layer0": "spartanextramaterial:item/longbow_titanium_standby"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "minecraft:pulling": 1.0
+      },
+      "model": "spartanextramaterial:item/longbow_titanium_pulling_0"
+    },
+    {
+      "predicate": {
+        "minecraft:pulling": 1.0,
+        "minecraft:pull": 0.65
+      },
+      "model": "spartanextramaterial:item/longbow_titanium_pulling_1"
+    },
+    {
+      "predicate": {
+        "minecraft:pulling": 1.0,
+        "minecraft:pull": 0.9
+      },
+      "model": "spartanextramaterial:item/longbow_titanium_pulling_2"
+    }
+  ]
+}

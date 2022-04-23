@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:lance",
+  "pattern": [
+    "  I",
+    "IP ",
+    "HI "
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/aluminium_brass"
+    },
+    "H": {
+      "item": "spartanweaponry:handle"
+    },
+    "P": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "lance_aluminium_brass"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "lance",
+        "aluminium_brass"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/aluminium_brass",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

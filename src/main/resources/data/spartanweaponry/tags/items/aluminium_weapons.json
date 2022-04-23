@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:battleaxe_aluminium",
+    "spartanextramaterial:boomerang_aluminium",
+    "spartanextramaterial:dagger_aluminium",
+    "spartanextramaterial:flanged_mace_aluminium",
+    "spartanextramaterial:glaive_aluminium",
+    "spartanextramaterial:greatsword_aluminium",
+    "spartanextramaterial:halberd_aluminium",
+    "spartanextramaterial:hammer_aluminium",
+    "spartanextramaterial:heavy_crossbow_aluminium",
+    "spartanextramaterial:javelin_aluminium",
+    "spartanextramaterial:katana_aluminium",
+    "spartanextramaterial:lance_aluminium",
+    "spartanextramaterial:longbow_aluminium",
+    "spartanextramaterial:longsword_aluminium",
+    "spartanextramaterial:parrying_dagger_aluminium",
+    "spartanextramaterial:pike_aluminium",
+    "spartanextramaterial:quarterstaff_aluminium",
+    "spartanextramaterial:rapier_aluminium",
+    "spartanextramaterial:saber_aluminium",
+    "spartanextramaterial:scythe_aluminium",
+    "spartanextramaterial:spear_aluminium",
+    "spartanextramaterial:throwing_knife_aluminium",
+    "spartanextramaterial:tomahawk_aluminium",
+    "spartanextramaterial:warhammer_aluminium"
+  ]
+}

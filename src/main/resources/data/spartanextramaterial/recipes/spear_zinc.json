@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:spear",
+  "pattern": [
+    "I",
+    "P"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/zinc"
+    },
+    "P": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "spear_zinc"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "spear",
+        "zinc"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/zinc",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:rapier",
+  "pattern": [
+    "  I",
+    "II ",
+    "HI "
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/aluminium_brass"
+    },
+    "H": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "rapier_aluminium_brass"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "rapier",
+        "aluminium_brass"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/aluminium_brass",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

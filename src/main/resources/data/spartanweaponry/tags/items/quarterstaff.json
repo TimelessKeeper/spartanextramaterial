@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:quarterstaff_aluminium",
+    "spartanextramaterial:quarterstaff_osmium",
+    "spartanextramaterial:quarterstaff_zinc",
+    "spartanextramaterial:quarterstaff_tungsten",
+    "spartanextramaterial:quarterstaff_titanium",
+    "spartanextramaterial:quarterstaff_cupronickel",
+    "spartanextramaterial:quarterstaff_aluminium_brass",
+    "spartanextramaterial:quarterstaff_brass"
+  ]
+}

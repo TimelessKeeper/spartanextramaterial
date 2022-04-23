@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:flanged_mace_aluminium",
+    "spartanextramaterial:flanged_mace_osmium",
+    "spartanextramaterial:flanged_mace_zinc",
+    "spartanextramaterial:flanged_mace_tungsten",
+    "spartanextramaterial:flanged_mace_titanium",
+    "spartanextramaterial:flanged_mace_cupronickel",
+    "spartanextramaterial:flanged_mace_aluminium_brass",
+    "spartanextramaterial:flanged_mace_brass"
+  ]
+}

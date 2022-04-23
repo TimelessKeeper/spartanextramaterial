@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:lance",
+  "pattern": [
+    "  I",
+    "IP ",
+    "HI "
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/titanium"
+    },
+    "H": {
+      "item": "spartanweaponry:handle"
+    },
+    "P": {
+      "item": "spartanweaponry:pole"
+    }
+  },
+  "result": {
+    "item": "lance_titanium"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "lance",
+        "titanium"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/titanium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

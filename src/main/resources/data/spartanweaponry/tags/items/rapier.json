@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:rapier_aluminium",
+    "spartanextramaterial:rapier_osmium",
+    "spartanextramaterial:rapier_zinc",
+    "spartanextramaterial:rapier_tungsten",
+    "spartanextramaterial:rapier_titanium",
+    "spartanextramaterial:rapier_cupronickel",
+    "spartanextramaterial:rapier_aluminium_brass",
+    "spartanextramaterial:rapier_brass"
+  ]
+}

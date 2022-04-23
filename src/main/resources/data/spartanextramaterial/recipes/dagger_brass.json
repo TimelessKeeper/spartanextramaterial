@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:dagger",
+  "pattern": [
+    "I",
+    "H"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/brass"
+    },
+    "H": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "dagger_brass"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "dagger",
+        "brass"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/brass",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

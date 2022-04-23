@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:dagger_aluminium",
+    "spartanextramaterial:dagger_osmium",
+    "spartanextramaterial:dagger_zinc",
+    "spartanextramaterial:dagger_tungsten",
+    "spartanextramaterial:dagger_titanium",
+    "spartanextramaterial:dagger_cupronickel",
+    "spartanextramaterial:dagger_aluminium_brass",
+    "spartanextramaterial:dagger_brass"
+  ]
+}

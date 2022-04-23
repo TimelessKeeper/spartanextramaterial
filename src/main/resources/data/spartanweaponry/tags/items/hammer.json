@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spartanextramaterial:hammer_aluminium",
+    "spartanextramaterial:hammer_osmium",
+    "spartanextramaterial:hammer_zinc",
+    "spartanextramaterial:hammer_tungsten",
+    "spartanextramaterial:hammer_titanium",
+    "spartanextramaterial:hammer_cupronickel",
+    "spartanextramaterial:hammer_aluminium_brass",
+    "spartanextramaterial:hammer_brass"
+  ]
+}

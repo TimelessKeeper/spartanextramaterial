@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spartanweaponry:saber",
+  "pattern": [
+    " I",
+    " I",
+    "IH"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/osmium"
+    },
+    "H": {
+      "item": "spartanweaponry:handle"
+    }
+  },
+  "result": {
+    "item": "saber_osmium"
+  },
+  "conditions": [
+    {
+      "disabled": [
+        "saber",
+        "osmium"
+      ],
+      "type": "spartanweaponry:type_disabled"
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/osmium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}
