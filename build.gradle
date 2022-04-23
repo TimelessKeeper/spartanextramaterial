@@ -127,7 +127,7 @@ dependencies {
     // that the dep is a ForgeGradle 'patcher' dependency. And it's patches will be applied.
     // The userdev artifact is a special name and will get all sorts of transformations applied to it.
     minecraft 'net.minecraftforge:forge:1.16.5-36.2.34'
-    implementation fg.deobf("curse.maven:jei-238222:2724420")
+    implementation fg.deobf("curse.maven:jei-238222:3681294")
     implementation fg.deobf("curse.maven:matex-393865:3525140")
     implementation fg.deobf("ignore:spartanweaponry:1.16.5-2.2.0-rc-2")
 
